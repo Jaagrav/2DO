@@ -22,7 +22,7 @@ function display() {
     document.querySelector(".list").innerHTML +=
       "<center><div class='element'>" +
       elements[i] +
-      "<img class='tick' src = 'https://logodix.com/logo/1602571.png' onclick='strike(" +
+      "<img class='tick' src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQPdrNL09nOpjjqaL2btv2RrLQFh-drL61VGsoO6AghWQxe_PDH&usqp=CAU' onclick='strike(" +
       i +
       ")'><img class='dustbin' src = 'https://icons.iconarchive.com/icons/papirus-team/papirus-status/512/user-trash-full-icon.png' onclick='del(" +
       i +
