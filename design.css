@@ -73,7 +73,7 @@ body {
 .element {
   position: relative;
   height: fit-content;
-  width: 40%;
+  width: 48%;
   right: -7px;
   text-align: left;
   transition: 0.2s;
