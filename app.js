@@ -22,7 +22,7 @@ function display() {
     document.querySelector(".list").innerHTML +=
       "<center><div class='element'>" +
       elements[i] +
-      "<img class='tick' src = 'https://i.dlpng.com/static/png/4098994-black-tick-icon-14163-free-icons-and-png-backgrounds-tick-png-black-and-white-600_556_preview.webp' onclick='strike(" +
+      "<img class='tick' src = 'https://logodix.com/logo/1602571.png' onclick='strike(" +
       i +
       ")'><img class='dustbin' src = 'https://icons.iconarchive.com/icons/papirus-team/papirus-status/512/user-trash-full-icon.png' onclick='del(" +
       i +
